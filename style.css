@@ -1,0 +1,48 @@
+/* CSS for index.html page */
+#header {
+    font-family: 'Courier New', Courier, monospace;
+    color: #03fc13;
+}
+
+
+#lasagna-link {
+    font-family: 'Courier New', Courier, monospace;
+    color: #03fc13;
+}
+
+#patatje-link {
+    font-family: 'Courier New', Courier, monospace;
+    color: #03fc13;
+}
+
+#doner-kebab-link {
+    font-family: 'Courier New', Courier, monospace;
+    color: #03fc13;
+}
+
+#lasagna-header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+/* -------------------------------------------------------------------------------------------------------- */
+/* CSS for lasagna */
+#whole-page-lasagna {
+    color: blue;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%);
+}
+/* -------------------------------------------------------------------------------------------------------- */
+/* CSS for patatje.html */
+
+#page {
+    color: green;
+}
+#patat-description {
+    color: green;
+}
+/* -------------------------------------------------------------------------------------------------------- */
+
+/* CSS for doner.html */
+#doner-whole-page {
+    color:yellow;
+    background-color: pink;
+}
