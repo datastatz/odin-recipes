@@ -1,13 +1,39 @@
+body {
+    background-color: cornflowerblue;
+}
+
 /* CSS for index.html page */
 #header {
     font-family: 'Courier New', Courier, monospace;
     color: #03fc13;
+    background-color: black;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: auto;
+    border: 5px;
+    border-style: solid;
+    border-color: #03fc13;
+    width: 150px ;
+    text-align: center;
 }
 
+div {
+    text-align: center;
+    margin: 32px;
+    background-color: black;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 12px;
+    border: 15px;
+    border-style: double;
+    border-color: #03fc13;
+
+}
 
 #lasagna-link {
     font-family: 'Courier New', Courier, monospace;
     color: #03fc13;
+    
 }
 
 #patatje-link {
@@ -45,4 +71,19 @@
 #doner-whole-page {
     color:yellow;
     background-color: pink;
+}
+
+/* centering the lists */
+
+h2 {
+    text-align: center;
+}
+
+div.lists {
+    text-align: right;
+}
+
+ul.doner-ul {
+    display: inline-block;
+    text-align: left;
 }
